@@ -1,0 +1,12 @@
+# ListRegistryResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**status** | [**Status**](Status.md) |  | [default to null]
+**numUnderscoreitems** | **integer** | Num Items | [default to null]
+**registryUnderscoreitems** | [**array[RegistryItem]**](RegistryItem.md) | Registry Items | [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
